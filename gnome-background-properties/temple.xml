@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Athena Temple</name>
-    <filename>/usr/share/backgrounds/temple.png</filename>
-    <filename-dark>/usr/share/backgrounds/temple.png</filename-dark>
+    <filename>/usr/share/backgrounds/athena/temple.png</filename>
+    <filename-dark>/usr/share/backgrounds/athena/temple.png</filename-dark>
     <options>stretched</options>
     <shade_type>solid</shade_type>
     <pcolor>#3071AE</pcolor>

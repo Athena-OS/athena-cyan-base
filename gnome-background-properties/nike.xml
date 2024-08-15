@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Athena Nike</name>
-    <filename>/usr/share/backgrounds/nike.png</filename>
-    <filename-dark>/usr/share/backgrounds/nike.png</filename-dark>
+    <filename>/usr/share/backgrounds/athena/nike.png</filename>
+    <filename-dark>/usr/share/backgrounds/athena/nike.png</filename-dark>
     <options>stretched</options>
     <shade_type>solid</shade_type>
     <pcolor>#3071AE</pcolor>

@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Samurai Girl</name>
-    <filename>/usr/share/backgrounds/samurai-girl.jpg</filename>
-    <filename-dark>/usr/share/backgrounds/samurai-girl.jpg</filename-dark>
+    <filename>/usr/share/backgrounds/athena/samurai-girl.jpg</filename>
+    <filename-dark>/usr/share/backgrounds/athena/samurai-girl.jpg</filename-dark>
     <options>stretched</options>
     <shade_type>solid</shade_type>
     <pcolor>#3071AE</pcolor>
